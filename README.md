@@ -40,7 +40,7 @@ Deployed with **Vercel** for instant access.
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/imawadh/RandomPasswordGenerator
-cd password-generator
+cd RandomPasswordGenerator
 npm install
 npm install tailwindcss @tailwindcss/vite
 npm run dev
