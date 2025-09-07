@@ -39,7 +39,7 @@ Deployed with **Vercel** for instant access.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/imawadh/password-generator.git
+git clone https://github.com/imawadh/RandomPasswordGenerator
 cd password-generator
 npm install
 npm install tailwindcss @tailwindcss/vite
